@@ -41,7 +41,7 @@ This project contains an interactive **Power BI dashboard** for analyzing custom
 ---
 
 ## 🚀 How to Use
-1. Download the `.pbix` file.  
+1. Download the `Customer Service Support Data.pbix` file.  
 2. Open with **Power BI Desktop**.  
 3. Interact with slicers to explore insights.  
 
