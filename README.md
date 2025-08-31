@@ -14,21 +14,21 @@ This project contains an interactive **Power BI dashboard** for analyzing custom
 
 ---
 
-## 📌 Dashboard Pages
+## Dashboard Pages
 1. **Executive Summary** – High-level metrics (Tickets, CSAT, SLA, Avg Resolution).  
 2. **Agent Performance** – Agent productivity, CSAT, ticket distribution.  
 3. **Customer Insights** – Retention %, Avg tickets per customer, regional & industry trends.  
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
 - **Excel (Data Source Simulation)**
 
 ---
 
-## 📷 Dashboard Snapshots
+## Dashboard Snapshots
 ### 1. Customer Support KPIs  
 ![Customer Support](./Customer%20Support.JPG)
 
@@ -40,14 +40,14 @@ This project contains an interactive **Power BI dashboard** for analyzing custom
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Download the `Customer Service Support Data.pbix` file.  
 2. Open with **Power BI Desktop**.  
 3. Interact with slicers to explore insights.  
 
 ---
 
-## 📈 KPIs Tracked
+## KPIs Tracked
 - **CSAT (Customer Satisfaction Score)**  
 - **Customer Retention %**  
 - **Average Resolution Time (Hrs)**  
