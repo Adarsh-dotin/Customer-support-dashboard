@@ -29,14 +29,14 @@ This project contains an interactive **Power BI dashboard** for analyzing custom
 ---
 
 ## 📷 Dashboard Snapshots
-### 1️⃣ Agent Productivity  
+### 1. Customer Support KPIs  
+![Customer Support](./Customer%20Support.JPG)
+
+### 2. Agent Productivity  
 ![Agent Productivity](./Agent%20Productivity.JPG)
 
-### 2️⃣ Customer Satisfaction & Retention  
+### 3. Customer Satisfaction & Retention  
 ![Customer Satisfaction](./Customer%20Satisfaction.JPG)
-
-### 3️⃣ Customer Support KPIs  
-![Customer Support](./Customer%20Support.JPG)
 
 ---
 
